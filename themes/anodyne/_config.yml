@@ -36,9 +36,9 @@ google_analytics:
 
 # Social Media Platforms
 social_platforms:
-  - url: https://twitter.com/?lang=en
+  - url: https://twitter.com/imoacs?lang=en
     fa_icon: fa-twitter
-  - url: https://www.facebook.com/
+  - url: https://www.facebook.com
     fa_icon: fa-facebook
   - url: https://dribbble.com/
     fa_icon: fa-dribbble 
