@@ -9,6 +9,7 @@ cache:
 
 # S: Build Lifecycle
 install:
+  - ls
   - npm install
 
 before_script:
