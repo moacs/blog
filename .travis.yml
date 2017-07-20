@@ -21,6 +21,8 @@ script:
 
 
 after_script:
+  - cp CNAME ./public
+  - ls ./public
   - cd ./public
   - git init
   - git config user.name "moacs"
