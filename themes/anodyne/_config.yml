@@ -22,7 +22,7 @@ archive_date_format: MMM YYYY
 archive_font_awesome_icon_css: fa-folder-open
 
 # About Widget
-about_widget_avatar_url: http://tachyons.io/img/avatar_1.jpg
+about_widget_avatar_url: https://fb-s-c-a.akamaihd.net/h-ak-fbx/v/t1.0-1/p160x160/12928223_922735157842348_6165321534296558335_n.jpg?oh=567fa43cfd64a4ce47a8e29376c488d3&oe=5A1864F1&__gda__=1511583073_661cd199a557ad363006a1e5f1467e7d
 about_widget_text: "My name is moacs and this is my blog.<br>I am a full stack software engineer with a strong front-end focus.<br> I currently live and work in Singapore, hit me up if you are in the region."
 
 
